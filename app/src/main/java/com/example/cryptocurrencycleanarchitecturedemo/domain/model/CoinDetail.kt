@@ -1,6 +1,6 @@
 package com.example.cryptocurrencycleanarchitecturedemo.domain.model
 
-import com.example.cryptocurrencycleanarchitecturedemo.data.remote.dto.TeamMember
+import com.example.cryptocurrencycleanarchitecturedemo.data.repository.dto.TeamMember
 
 data class CoinDetail(
     val coinId:String,

@@ -1,8 +1,8 @@
 package com.example.cryptocurrencycleanarchitecturedemo.data.repository
 
 import com.example.cryptocurrencycleanarchitecturedemo.data.remote.CoinPaprikaApi
-import com.example.cryptocurrencycleanarchitecturedemo.data.remote.dto.CoinDetailDto
-import com.example.cryptocurrencycleanarchitecturedemo.data.remote.dto.CoinDto
+import com.example.cryptocurrencycleanarchitecturedemo.data.repository.dto.CoinDetailDto
+import com.example.cryptocurrencycleanarchitecturedemo.data.repository.dto.CoinDto
 import com.example.cryptocurrencycleanarchitecturedemo.domain.repository.CoinRepository
 import javax.inject.Inject
 

@@ -12,17 +12,12 @@ import androidx.compose.ui.Alignment
 import androidx.compose.ui.Alignment.Companion.CenterVertically
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
-import androidx.compose.ui.layout.layoutId
 import androidx.compose.ui.text.font.FontStyle
 import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
 import androidx.hilt.navigation.compose.hiltViewModel
-import androidx.navigation.NavController
-import com.example.cryptocurrencycleanarchitecturedemo.data.remote.dto.TeamMember
-import com.example.cryptocurrencycleanarchitecturedemo.presentation.Screen
 import com.example.cryptocurrencycleanarchitecturedemo.presentation.coin_detail.components.CoinTag
 import com.example.cryptocurrencycleanarchitecturedemo.presentation.coin_detail.components.TeamListItem
-import com.example.cryptocurrencycleanarchitecturedemo.presentation.coin_list.components.CoinListItem
 import com.google.accompanist.flowlayout.FlowRow
 
 @Composable

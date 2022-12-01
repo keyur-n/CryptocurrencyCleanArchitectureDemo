@@ -1,6 +1,5 @@
 package com.example.cryptocurrencycleanarchitecturedemo.presentation.coin_detail.components
 
-import android.widget.Space
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.Spacer
@@ -11,7 +10,7 @@ import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.text.font.FontStyle
 import androidx.compose.ui.unit.dp
-import com.example.cryptocurrencycleanarchitecturedemo.data.remote.dto.TeamMember
+import com.example.cryptocurrencycleanarchitecturedemo.data.repository.dto.TeamMember
 
 @Composable
 fun TeamListItem(

@@ -1,7 +1,7 @@
 package com.example.cryptocurrencycleanarchitecturedemo.domain.use_cases.get_coin
 
 import com.example.cryptocurrencycleanarchitecturedemo.common.Resource
-import com.example.cryptocurrencycleanarchitecturedemo.data.remote.dto.toCoinDetail
+import com.example.cryptocurrencycleanarchitecturedemo.data.repository.dto.toCoinDetail
 import com.example.cryptocurrencycleanarchitecturedemo.domain.model.CoinDetail
 import com.example.cryptocurrencycleanarchitecturedemo.domain.repository.CoinRepository
 import kotlinx.coroutines.flow.Flow

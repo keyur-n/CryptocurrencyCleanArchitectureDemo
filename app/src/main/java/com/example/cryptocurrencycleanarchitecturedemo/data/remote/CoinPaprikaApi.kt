@@ -1,7 +1,7 @@
 package com.example.cryptocurrencycleanarchitecturedemo.data.remote
 
-import com.example.cryptocurrencycleanarchitecturedemo.data.remote.dto.CoinDetailDto
-import com.example.cryptocurrencycleanarchitecturedemo.data.remote.dto.CoinDto
+import com.example.cryptocurrencycleanarchitecturedemo.data.repository.dto.CoinDetailDto
+import com.example.cryptocurrencycleanarchitecturedemo.data.repository.dto.CoinDto
 import retrofit2.http.GET
 import retrofit2.http.Path
 

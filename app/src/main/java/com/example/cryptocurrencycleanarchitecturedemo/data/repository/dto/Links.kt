@@ -1,4 +1,4 @@
-package com.example.cryptocurrencycleanarchitecturedemo.data.remote.dto
+package com.example.cryptocurrencycleanarchitecturedemo.data.repository.dto
 
 
 import com.google.gson.annotations.SerializedName
